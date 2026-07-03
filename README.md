@@ -23,7 +23,7 @@ A modern, clean, and responsive Login Page built with **HTML** and **Tailwind CS
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
+https://github.com/noorulhaqrahimi/firstNoorulhaqRahimiWebsite.git
 ```
 
 2. Open the project folder.
